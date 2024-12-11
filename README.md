@@ -18,7 +18,6 @@ wine_reviews/
 │   │   └── wine_rev.csv     # Original wine reviews CSV file  
 │   ├── processed/
 │   │   └── clean_reviews.csv  # Cleaned wine reviews CSV file
-│   │   └── clean_reviews.db   # SQLite3 database file
 ├── logs/                        # Folder for log files  
 │   └── data_cleaning.log              # Log file for pipeline execution  
 ├── scripts/  
